@@ -17,18 +17,18 @@ i) '&&' : Logical AND <br>
 ii) '||' : Logical OR <br>
 iii) '!' : Logical NOT  <br>
 
-3)Assignment Operators : Used to assign values to the variables.  <br>
-  i) '=' : Assign <br>
-  ii) '+=' : Add and assign <br>
-  iii) '-=' : Subtract and assign <br>
-iv) '*=' : Multiply and assign <br>
-v) '/=' : Divide and assign <br>
-vi) '%=' : Modulus and assign <br>
-vii) '&=' : Bitwise AND and assign <br>
-viii) '|=' : Bitwise OR and assign <br>
-ix) '^=' : Bitwise XOR and assign <br>
-x) '<<=' : Left shift and assign <br>
-xi) '>>=' : Right shift and assign <br>
+3) Assignment Operators : Used to assign values to the variables.  <br>
+i)  '=' : Assign <br>
+ii)  '+=' : Add and assign <br>
+iii)  '-=' : Subtract and assign <br>
+iv)  '*=' : Multiply and assign <br>
+v)  '/=' : Divide and assign <br>
+vi)  '%=' : Modulus and assign <br>
+vii)  '&=' : Bitwise AND and assign <br>
+viii)  '|=' : Bitwise OR and assign <br>
+ix)  '^=' : Bitwise XOR and assign <br>
+x)  '<<=' : Left shift and assign <br>
+xi)  '>>=' : Right shift and assign <br>
 
 OUTPUT:  <br>
 3a) :  <br>
