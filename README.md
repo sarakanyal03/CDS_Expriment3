@@ -17,7 +17,7 @@ i) '&&' : Logical AND <br>
 ii) '||' : Logical OR <br>
 iii) '!' : Logical NOT  <br>
 
- 3)Assignment Operators : Used to assign values to the variables.  <br>
+3)Assignment Operators : Used to assign values to the variables.  <br>
   i) '=' : Assign <br>
   ii) '+=' : Add and assign <br>
   iii) '-=' : Subtract and assign <br>
